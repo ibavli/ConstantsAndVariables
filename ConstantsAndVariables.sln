@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumSample", "EnumSample\EnumSample.csproj", "{7E1CBC3D-F35F-4419-B67E-712C82A5855C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefKeyword", "RefKeyword\RefKeyword.csproj", "{C96CACAB-E127-4A9B-840D-5B45ED68DCEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7E1CBC3D-F35F-4419-B67E-712C82A5855C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E1CBC3D-F35F-4419-B67E-712C82A5855C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E1CBC3D-F35F-4419-B67E-712C82A5855C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96CACAB-E127-4A9B-840D-5B45ED68DCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96CACAB-E127-4A9B-840D-5B45ED68DCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96CACAB-E127-4A9B-840D-5B45ED68DCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96CACAB-E127-4A9B-840D-5B45ED68DCEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
