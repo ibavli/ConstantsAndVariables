@@ -17,10 +17,12 @@ namespace RefKeyword
             Console.WriteLine(message2);
 
             //message değişkeni metoda ref parametresi ile gönderildiği için değeri değişti
+            //mutlaka değer atanmış olmalı
             WriteMessage(ref message, message2);
 
             Console.WriteLine(message);
             Console.WriteLine(message2);
+
             Console.ReadLine();
         }
 
